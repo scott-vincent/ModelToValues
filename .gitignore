@@ -1,0 +1,9 @@
+.env
+.git
+.vs
+.vscode
+*/bin
+*/obj
+**/.toolstarget
+coverage.xml
+CoverageReports
